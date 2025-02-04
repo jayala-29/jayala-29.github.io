@@ -15,7 +15,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <li>
   <b>A Mixed-Methods Study of Open-Source Software Maintainers On Vulnerability Management and Platform Security Features</b><br>
 	<u>Jessy Ayala</u>, Yu-Jye Tung, Joshua Garcia<br>
-	To appear in the 2025 USENIX Security Symposium (USENIX Sec 2025)<br>
+	To appear in the 33rd USENIX Security Symposium (USENIX Sec 2025)<br>
 </li><br>
 
 <li>
@@ -41,22 +41,21 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<a target="_blank" href="https://petsymposium.org/popets/2025/popets-2025-0005.pdf"><div class="color-button">link</div></a>
 	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/popets2025-sb.pdf"><div class="color-button">pdf</div></a>
   <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/sb2025they.bib"><div class="color-button">BibTeX</div></a>
-</li><br>
+<br>
 
 -->
+</ul>
 
-<!--
+
 <h3>2024</h3>
 <ul>
 <li>
-  <b>Encouraging Users to Change Breached Passwords Using the Protection Motivation Theory</b><br>
-	<u>Yixin Zou</u>, Khue Le, Peter Mayer, Alessandro Acquisti, Adam Aviv, Florian Schaub<br>
-	ACM Transactions on Computer-Human Interaction (TOCHI), 31(5), 63:1–63:45<br>
-	<a target="_blank" href="https://dl.acm.org/doi/10.1145/3689432"><div class="color-button">link</div></a>
-	<a target="_blank" href="https://yixinzou.github.io/publications/pdf/tochi2024-zou.pdf"><div class="color-button">pdf</div></a>
-  <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/zou2024encouraging.bib"><div class="color-button">BibTeX</div></a>
-	<a target="_blank" href="https://yixinzou.github.io/publications/slides/cnil2024-zou-slides.pdf"><div class="color-button">slides</div></a>
+  <b>"Do You Want Me to Participate or Not?": Investigating the Accessibility of Software Development Meetings for Blind and Low Vision Professionals</b><br>
+	Yoonha Cha, Isabela Figueira, <u>Jessy Ayala</u>, Emory James Edwards, Joshua Garcia, André van der Hoek, Stacy Marie Branham<br>
+	Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2024)<br>
 </li><br>
+
+<!--
 <li>
   <b>Unfulfilled Promises of Child Safety and Privacy: Portrayals and Use of Children in Smart Home Marketing</b><br>
 	Kaiwen Sun, Jingjie Li, <u>Yixin Zou</u>, Jenny Radesky, Christopher Brooks, Florian Schaub<br>
