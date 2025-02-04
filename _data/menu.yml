@@ -1,14 +1,14 @@
 # - title: "About"
 #   href: "/about/"
 
-- title: "Bio"
-  href: "/bio/"
+# - title: "Bio"
+#   href: "/bio/"
 
-- title: "Publications"
-  href: "/publications/"
+#- title: "Publications"
+#  href: "/publications/"
 
-- title: "Group"
-  href: "/group/"
+#- title: "Group"
+#  href: "/group/"
 
 # - title: "Join Us"
 #  href: "/joinus/"
