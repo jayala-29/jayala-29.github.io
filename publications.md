@@ -8,16 +8,23 @@ Below are selected publications. Please check my <a href="https://scholar.google
 
 Conferences are the top-tier academic publishing venues in computer science and information science (CS/IS). Thus, the majority of my research is published in CS/IS conference proceedings.
 
-<!--
+
 <h3>2025</h3>
 <ul>
 
 <li>
-  <b>Digital Security Perceptions and Practices Around the World: A WEIRD vs. Non-WEIRD Comparison</b><br>
-	Franziska Herbert*, Collins W. Munyendo*, Jonas Hielscher, Steffen Becker, <u>Yixin Zou</u><br>
-	To appear in USENIX Security Symposium<br>
+  <b>A Mixed-Methods Study of Open-Source Software Maintainers On Vulnerability Management and Platform Security Features</b><br>
+	<u>Jessy Ayala</u>, Yu-Jye Tung, Joshua Garcia<br>
+	To appear in the 2025 USENIX Security Symposium (USENIX Sec 2025)<br>
 </li><br>
 
+<li>
+  <b>A Deep Dive Into How Open-Source Project Maintainers Review and Resolve Bug Bounty Reports</b><br>
+	<u>Jessy Ayala</u>, Steven Ngo, Joshua Garcia<br>
+	To appear in the 46th IEEE Symposium on Security and Privacy (S&P 2025)<br>
+</li>
+
+<!--
 <li>
   <b>Misalignments and Demographic Differences in Expected and Actual Privacy Settings on Facebook</b><br>
 	Byron Lowens, Sean Scarnecchia, Jane Im, Tanisha Afnan, Annie Chen, <u>Yixin Zou</u>, Florian Schaub<br>
@@ -36,7 +43,9 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <a target="_blank" href="https://yixinzou.github.io/publications/bibtex/sb2025they.bib"><div class="color-button">BibTeX</div></a>
 </li><br>
 
+-->
 
+<!--
 <h3>2024</h3>
 <ul>
 <li>
@@ -68,6 +77,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <a target="_blank" href="https://yixinzou.github.io/publications/slides/oakland2024-becker-poster.pdf"><div class="color-button">poster</div></a>
 </li><br>
 </ul>
+
 
 <h3>2023</h3>
 <ul>
