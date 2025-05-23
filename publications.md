@@ -13,7 +13,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <ul>
 
 <li>
-  <b>Hercules Droidot and the murder on the JNI Express</b><br>
+  <b>Hercules Droidot and the Murder on the JNI Express</b><br>
 	Luca Di Bartolomeo, Philipp Mao, Yu-Jye Tung, <u>Jessy Ayala</u>, Marcel Busch, Paolo Celada, Samuele Doria, Joshua Garcia, Eleonora Losiouk, Mathias Payer<br>
 	To appear in the 33rd USENIX Security Symposium (USENIX Sec 2025)<br>
 </li><br>
