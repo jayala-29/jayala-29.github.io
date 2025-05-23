@@ -24,13 +24,6 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	To appear in the 33rd USENIX Security Symposium (USENIX Sec 2025)<br>
 </li><br>
 
- (EPFL) <marcel.busch@epfl.ch>
- (EPFL) <paolo.cela@gmail.com>
-Samuele Doria (University of Padua) <samuele.doria.1@studenti.unipd.it>
-Joshua Garcia (University of California, Irvine) <joshug4@uci.edu>
-Eleonora Losiouk (University of Padova) <elosiouk@math.unipd.it>
-Mathias Payer
-
 <li>
   <b>A Deep Dive Into How Open-Source Project Maintainers Review and Resolve Bug Bounty Reports</b><br>
 	<u>Jessy Ayala</u>, Steven Ngo, Joshua Garcia<br>
