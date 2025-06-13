@@ -28,6 +28,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <b>A Deep Dive Into How Open-Source Project Maintainers Review and Resolve Bug Bounty Reports</b><br>
 	<u>Jessy Ayala</u>, Steven Ngo, Joshua Garcia<br>
 	Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P 2025)<br>
+	<i>Acceptance rate: 14.8%</i><br>
 </li>
 
 <!--
@@ -59,6 +60,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <b>"Do You Want Me to Participate or Not?": Investigating the Accessibility of Software Development Meetings for Blind and Low Vision Professionals</b><br>
 	Yoonha Cha, Isabela Figueira, <u>Jessy Ayala</u>, Emory James Edwards, Joshua Garcia, André van der Hoek, Stacy Marie Branham<br>
 	Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI 2024)<br>
+	<i>Acceptance rate: 26.4%</i><br>
 </li><br>
 
 <!--
