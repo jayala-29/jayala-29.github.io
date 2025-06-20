@@ -8,6 +8,15 @@ Below are selected publications. Please check my <a href="https://scholar.google
 
 Conferences are the top-tier academic publishing venues in computer science and information science (CS/IS). Thus, most of my research is published in CS/IS conference proceedings.
 
+<h3>2026</h3>
+<ul>
+
+<li>
+  <b>Breaking Strong Encapsulation: A Comprehensive Study of Java Module Abuse</b><br>
+	Yirui He, Yongbo Chen, <u>Jessy Ayala</u>, Yecheng Zhou, Qiran Wang, Joshua Garcia<br>
+	To appear in the 48th International Conference on Software Engineering (ICSE 2026)<br>
+</li>
+</ul>
 
 <h3>2025</h3>
 <ul>
