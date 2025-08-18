@@ -24,13 +24,15 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <li>
   <b>Hercules Droidot and the Murder on the JNI Express</b><br>
 	Luca Di Bartolomeo, Philipp Mao, Yu-Jye Tung, <u>Jessy Ayala</u>, Marcel Busch, Paolo Celada, Samuele Doria, Joshua Garcia, Eleonora Losiouk, Mathias Payer<br>
-	To appear in the 33rd USENIX Security Symposium (USENIX Sec 2025)<br>
+	Proceedings of the 34th USENIX Security Symposium (USENIX Sec 2025)<br>
+	<i>Acceptance rate: 17.1%</i><br>
 </li><br>
 
 <li>
   <b>A Mixed-Methods Study of Open-Source Software Maintainers On Vulnerability Management and Platform Security Features</b><br>
 	<u>Jessy Ayala</u>, Yu-Jye Tung, Joshua Garcia<br>
-	To appear in the 33rd USENIX Security Symposium (USENIX Sec 2025)<br>
+	Proceedings of the 34th USENIX Security Symposium (USENIX Sec 2025)<br>
+	<i>Acceptance rate: 17.1%</i><br>
 </li><br>
 
 <li>
