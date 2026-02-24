@@ -15,6 +15,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <b>Breaking Strong Encapsulation: A Comprehensive Study of Java Module Abuse</b><br>
 	Yirui He, Yongbo Chen, <u>Jessy Ayala</u>, Yecheng Zhou, Qiran Wang, Joshua Garcia<br>
 	To appear in the 48th International Conference on Software Engineering (ICSE 2026)<br>
+	<i>Acceptance rate: 21.8%</i><br>
 </li>
 </ul>
 
