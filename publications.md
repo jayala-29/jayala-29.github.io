@@ -12,9 +12,17 @@ Conferences are the top-tier academic publishing venues in computer science and 
 <ul>
 
 <li>
+  <b>Between Risk, Recognition, and Necessity: How Open-Source Project Maintainers Perceive and Navigate CVEs Through Reporting and Resolving Vulnerabilities</b><br>
+	<u>Jessy Ayala</u>, Steven Ngo, Joshua Garcia<br>
+	To appear in the 33rd ACM Conference on Computer and Communications Security (CCS 2026)<br>
+	<i>Acceptance rate: TBD</i><br>
+</li>
+</ul>
+
+<li>
   <b>Breaking Strong Encapsulation: A Comprehensive Study of Java Module Abuse</b><br>
 	Yirui He, Yongbo Chen, <u>Jessy Ayala</u>, Yecheng Zhou, Qiran Wang, Joshua Garcia<br>
-	To appear in the 48th International Conference on Software Engineering (ICSE 2026)<br>
+	Proceedings of the 48th International Conference on Software Engineering (ICSE 2026)<br>
 	<i>Acceptance rate: 21.8%</i><br>
 </li>
 </ul>
