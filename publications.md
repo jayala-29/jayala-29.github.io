@@ -16,7 +16,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
 	<u>Jessy Ayala</u>, Steven Ngo, Joshua Garcia<br>
 	To appear in the 33rd ACM Conference on Computer and Communications Security (CCS 2026)<br>
 	<i>Acceptance rate: TBD</i><br>
-</li>
+</li><br>
 
 <li>
   <b>Breaking Strong Encapsulation: A Comprehensive Study of Java Module Abuse</b><br>
