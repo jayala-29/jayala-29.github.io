@@ -4,7 +4,7 @@ permalink: /publications/
 <!-- title: Publications -->
 ---
 
-Below are selected publications. Please check my <a href="https://scholar.google.com/citations?user=osbshjEAAAAJ&hl=en">Google Scholar</a> or <a target="_blank" href="https://jayala-29.github.io/cv/ayala-cv.pdf">CV</a> for a full list of publications. 
+Below are selected publications. Please check my <a href="https://scholar.google.com/citations?user=osbshjEAAAAJ&hl=en" target="_blank">Google Scholar</a> or <a target="_blank" href="https://jayala-29.github.io/cv/ayala-cv.pdf">CV</a> for a full list of publications. 
 
 Conferences are the top-tier academic publishing venues in computer science and information science (CS/IS). Thus, most of my research is published in CS/IS conference proceedings.
 
