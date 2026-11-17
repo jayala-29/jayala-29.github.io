@@ -15,7 +15,7 @@ Conferences are the top-tier academic publishing venues in computer science and 
   <b>Between Risk, Recognition, and Necessity: How Open-Source Project Maintainers Perceive and Navigate CVEs Through Reporting and Resolving Vulnerabilities</b><br>
 	<u>Jessy Ayala</u>, Steven Ngo, Joshua Garcia<br>
 	Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS 2026)<br>
-	<a href="https://docs.google.com/presentation/d/1jQuUcEZJisobBvBoPEisKkYR5cgeTc7kI5JE3CK5LHA/edit?usp=sharing">Presentation Link</a><br>
+	<a href="https://docs.google.com/presentation/d/1jQuUcEZJisobBvBoPEisKkYR5cgeTc7kI5JE3CK5LHA/edit?usp=sharing" target="_blank">Presentation Link</a><br>
 	<i>Acceptance rate: 17.0%</i><br>
 </li><br>
 
